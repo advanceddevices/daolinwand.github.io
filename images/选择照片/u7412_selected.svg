@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="440 199  12 12" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 446 199  C 449.36 199  452 201.64  452 205  C 452 208.36  449.36 211  446 211  C 442.64 211  440 208.36  440 205  C 440 201.64  442.64 199  446 199  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+  <path d="M 446 199.5  C 449.08 199.5  451.5 201.92  451.5 205  C 451.5 208.08  449.08 210.5  446 210.5  C 442.92 210.5  440.5 208.08  440.5 205  C 440.5 201.92  442.92 199.5  446 199.5  Z " stroke-width="1" stroke="#797979" fill="none" />
+  <path d="M 446 208  C 444.32 208  443 206.68  443 205  C 443 203.32  444.32 202  446 202  C 447.68 202  449 203.32  449 205  C 449 206.68  447.68 208  446 208  " fill-rule="nonzero" fill="#797979" stroke="none" />
+</svg>
